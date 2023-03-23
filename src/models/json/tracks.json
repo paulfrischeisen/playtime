@@ -1,0 +1,32 @@
+{
+  "tracks": [
+    {
+      "title": "Disorder - 2007 Remaster",
+      "artist": "Joy Division",
+      "duration": 3.29,
+      "_id": "47852ac3-8368-4fa2-bc01-6475a48aa911",
+      "playlistid": "9ddba382-f732-40cf-aeef-fde781295ff4"
+    },
+    {
+      "title": "Precious",
+      "artist": "Depeche Mode",
+      "duration": 4.1,
+      "_id": "29641485-b589-488e-a947-495c02191dfc",
+      "playlistid": "9ddba382-f732-40cf-aeef-fde781295ff4"
+    },
+    {
+      "title": "Do Me a Favour",
+      "artist": "Arctic Monkeys",
+      "duration": 3.29,
+      "_id": "0789868f-d97e-4a3e-899c-fdcde03d1fd1",
+      "playlistid": "9ddba382-f732-40cf-aeef-fde781295ff4"
+    },
+    {
+      "title": "Oblivius",
+      "artist": "The Strokes",
+      "duration": 4.59,
+      "_id": "77f61171-24f3-4460-86be-81c5f3148f47",
+      "playlistid": "9ddba382-f732-40cf-aeef-fde781295ff4"
+    }
+  ]
+}
